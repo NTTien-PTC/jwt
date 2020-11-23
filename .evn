@@ -1,0 +1,3 @@
+MONGODB_URL=mongodb+srv://exam<@Tien99201199>@cluster0-e1zyx.mongodb.net/jwt-nodejs?retryWrites=true&w=majority
+JWT_KEY=EXAM
+PORT=3000
