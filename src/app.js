@@ -1,5 +1,5 @@
 const express = require('express')
-const userRouter = require('./router//user')
+const userRouter = require('./router/user')
 const port = 4000
 require('./db/db')
 
